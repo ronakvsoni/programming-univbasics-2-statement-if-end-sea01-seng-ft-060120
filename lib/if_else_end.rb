@@ -11,7 +11,7 @@ end
 
 
 
-current_time = 15
+current_time = [1,2,...,20]
 current_time = current_time.to_i
 
 if current_time % 2 == 0

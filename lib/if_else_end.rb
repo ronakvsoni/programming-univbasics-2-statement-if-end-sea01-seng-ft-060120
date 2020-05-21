@@ -11,7 +11,7 @@ end
 
 
 
-current_time = 
+current_time = 14
 
 if current_time % 2 == 0
   puts "Even!"
